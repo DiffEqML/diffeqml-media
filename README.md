@@ -1,2 +1,2 @@
 # diffeqml-media
-Media, tutorials and blog posts of DiffEqML
+Media of DiffEqML: images, animations and notes.
